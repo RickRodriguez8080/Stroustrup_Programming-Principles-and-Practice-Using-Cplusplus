@@ -72,9 +72,6 @@ int main()
 			currency = ' ';
 			cin >> currency;
 		}
-		else {
-			break;
-		}
 	}
 
 	return 0;
