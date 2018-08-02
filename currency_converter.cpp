@@ -1,4 +1,5 @@
 /*	currency_converter.cpp
+/	From "Try This" on page 105
 /	This program will convert yen, kroner and pounds into dollars.
 /	Using the conversion rates from Wednesday, Aug 1, 2018
 /
