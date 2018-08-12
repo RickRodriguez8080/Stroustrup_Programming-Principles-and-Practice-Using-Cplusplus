@@ -1,7 +1,7 @@
 // median_temp.cpp
 // Ch 4, Ex 2
 
-#include "../../../std_lib_facilities.h"
+#include "std_lib_facilities.h"
 
 //function declarations
 
