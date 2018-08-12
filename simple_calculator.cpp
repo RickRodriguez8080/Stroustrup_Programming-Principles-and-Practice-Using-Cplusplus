@@ -3,7 +3,7 @@
 // Ch 4, Exercise 5
 // Program takes two doubles and an operator, calculates it, and displays the result
 
-#include "../../../std_lib_facilities.h"
+#include "std_lib_facilities.h"
 
 int main()
 {
