@@ -4,7 +4,7 @@
 // print the smallest and longest distances between 
 // neighboring cities.
 
-#include "../../../std_lib_facilities.h"
+#include "std_lib_facilities.h"
 
 // function declarations
 
