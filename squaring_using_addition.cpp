@@ -2,7 +2,7 @@
 // from "Try This" on page 116
 // We will square numbers using repeated addition
 
-#include "../../../std_lib_facilities.h"
+#include "std_lib_facilities.h"
 
 // function declaration
 
