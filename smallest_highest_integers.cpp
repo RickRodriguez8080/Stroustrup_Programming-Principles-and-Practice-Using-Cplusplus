@@ -2,7 +2,7 @@
 // by: Ricardo Rodriguez
 // part of "Try This" pg. 126
 
-#include "../../../std_lib_facilities.h"
+#include "std_lib_facilities.h"
 
 int main()
 {
