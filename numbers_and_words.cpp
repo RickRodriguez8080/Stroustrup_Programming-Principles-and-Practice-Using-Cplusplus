@@ -4,7 +4,7 @@
 // Type in a digit and its word form will be given
 // Type the word form of a number and its digit will be given
 
-#include "../../../std_lib_facilities.h"
+#include "std_lib_facilities.h"
 
 // function declarations
 
